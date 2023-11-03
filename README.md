@@ -14,13 +14,13 @@
 </div>
 
 # About Me  
-I'm a Computer Science and Engineering Student.  
+I'm a Computer Science and Informatics Engineering Student.  
 --
-* 🙆‍♂️My fullname is Beryll Pradana Ramadhan.
+* 🙆‍♂️ My fullname is Beryll Pradana Ramadhan.
 * 👀 I’m interested in Computers and Sciences.
 * 🏫 I'm currently studying Frontend Web and Backend Developer at Dicoding Indonesia.
-* 📚I'm currently learning everything about Frontend and Backend technologies.😅
-* 💪Future Goals: Learn more technologies - Never stop creating new ideas.
+* 📚 I'm currently learning everything about Frontend and Backend technologies.😅
+* 💪 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 ## Let's Connect with me😉👍
 
